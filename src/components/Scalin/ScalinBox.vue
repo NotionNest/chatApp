@@ -47,9 +47,9 @@ const drapContent = () => {
           </div>
           <div class="message">
             <div class="chat-menu">
-              <span>All Chats</span>
-              <span>Groups</span>
-              <span>Contacts</span>
+              <span>All Chats2</span>
+              <span>Groups2</span>
+              <span>Contacts2</span>
             </div>
           </div>
           <div class="chat-list">
