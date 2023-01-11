@@ -43,11 +43,11 @@ async function updater() {
     pub_date: new Date().toISOString(),
     platforms: {
       win64: { signature: '', url: '' }, // compatible with older formats
-      linux: { signature: '', url: '' }, // compatible with older formats
+      // linux: { signature: '', url: '' }, // compatible with older formats
       darwin: { signature: '', url: '' }, // compatible with older formats
       'darwin-aarch64': { signature: '', url: '' },
       'darwin-x86_64': { signature: '', url: '' },
-      'linux-x86_64': { signature: '', url: '' },
+      // 'linux-x86_64': { signature: '', url: '' },
       'windows-x86_64': { signature: '', url: '' },
       // 'windows-i686': { signature: '', url: '' }, // no supported
     },
@@ -82,8 +82,8 @@ async function updater() {
       'darwin-aarch64',
     ]);
 
-    // linux
-    await setAsset(asset, /.AppImage.tar.gz/, ['linux', 'linux-x86_64']);
+    // // linux
+    // await setAsset(asset, /.AppImage.tar.gz/, ['linux', 'linux-x86_64']);
   });
   await Promise.allSettled(promises);
 
