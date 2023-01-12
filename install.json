@@ -1,0 +1,27 @@
+{
+  "version": "v0.0.10",
+  "notes": "- feat: xxx\n- fix: xxx",
+  "pub_date": "2023-01-12T12:39:28.359Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRR3UyQytGZGM3dUt5V0hYanFWdlNMMEhUR0QrY0J5VmJCbWc2a05hRnJPUUlsWHRrOWFzdmNBUTY5STZwUFZxVzRqTkV0a2VSRnpYRFhvVDJ5NGY2ZXplZUNFMDdSM1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNTI3MTE5CWZpbGU6Y2hhdF8wLjAuMF94NjRfZW4tVVMubXNpLnppcApSL3V1UHFhdjd4YU83cjR5VVlpNTZ0dXNoQ1ZzMnF5SnkycnNmSEFkM0VXZ0dvVHBPU3RDOEx2L2RLVGtNbnFkUTIwNmlzenlEdFBCNjU2YmgwZEhBUT09Cg==",
+      "url": "https://github.com/aidenup/chatApp/releases/download/v0.0.10/chat_0.0.0_x64_en-US.msi.zip"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRR3UyQytGZGM3dUR4cXBUaTZOZG1mamRrL3N4VlZOY3htSkxxMkphWE1DQmNRUS8xc3dvakc4dzJoOUhzaFcxNHhLZXM0OXBHMkV3blpWZmt5MVgyN1MyWjdDZlZEcWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNTI3MTMyCWZpbGU6Y2hhdC5hcHAudGFyLmd6CnplTzJ2QmVwMXRjUWRkc1A0SWZYQWRLQmZJOVM2M1laYmlSeHl2U21HUVI2ZmkyRHBvNFNPenoyT2g2Y1pPbWlGMDlEenB2UncyV3V5SDRDeElmMUNnPT0K",
+      "url": "https://github.com/aidenup/chatApp/releases/download/v0.0.10/chat.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRR3UyQytGZGM3dUR4cXBUaTZOZG1mamRrL3N4VlZOY3htSkxxMkphWE1DQmNRUS8xc3dvakc4dzJoOUhzaFcxNHhLZXM0OXBHMkV3blpWZmt5MVgyN1MyWjdDZlZEcWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNTI3MTMyCWZpbGU6Y2hhdC5hcHAudGFyLmd6CnplTzJ2QmVwMXRjUWRkc1A0SWZYQWRLQmZJOVM2M1laYmlSeHl2U21HUVI2ZmkyRHBvNFNPenoyT2g2Y1pPbWlGMDlEenB2UncyV3V5SDRDeElmMUNnPT0K",
+      "url": "https://github.com/aidenup/chatApp/releases/download/v0.0.10/chat.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRR3UyQytGZGM3dUR4cXBUaTZOZG1mamRrL3N4VlZOY3htSkxxMkphWE1DQmNRUS8xc3dvakc4dzJoOUhzaFcxNHhLZXM0OXBHMkV3blpWZmt5MVgyN1MyWjdDZlZEcWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNTI3MTMyCWZpbGU6Y2hhdC5hcHAudGFyLmd6CnplTzJ2QmVwMXRjUWRkc1A0SWZYQWRLQmZJOVM2M1laYmlSeHl2U21HUVI2ZmkyRHBvNFNPenoyT2g2Y1pPbWlGMDlEenB2UncyV3V5SDRDeElmMUNnPT0K",
+      "url": "https://github.com/aidenup/chatApp/releases/download/v0.0.10/chat.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRR3UyQytGZGM3dUt5V0hYanFWdlNMMEhUR0QrY0J5VmJCbWc2a05hRnJPUUlsWHRrOWFzdmNBUTY5STZwUFZxVzRqTkV0a2VSRnpYRFhvVDJ5NGY2ZXplZUNFMDdSM1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNTI3MTE5CWZpbGU6Y2hhdF8wLjAuMF94NjRfZW4tVVMubXNpLnppcApSL3V1UHFhdjd4YU83cjR5VVlpNTZ0dXNoQ1ZzMnF5SnkycnNmSEFkM0VXZ0dvVHBPU3RDOEx2L2RLVGtNbnFkUTIwNmlzenlEdFBCNjU2YmgwZEhBUT09Cg==",
+      "url": "https://github.com/aidenup/chatApp/releases/download/v0.0.10/chat_0.0.0_x64_en-US.msi.zip"
+    }
+  }
+}
