@@ -33,7 +33,7 @@ const handleMenuItem = (menuItem: Menu) => {
 <template>
   <div class="sidebar" data-tauri-drag-region>
       <div>
-        
+        更新后
       </div>
       <ui class="menu_list flex-column">
         <li class="menu_item cs" v-for="item in menu" :key="item.id" @click="handleMenuItem(item)">{{ item.label }}</li>
